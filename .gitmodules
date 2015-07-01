@@ -1,0 +1,9 @@
+[submodule ".themes/feeling-responsive"]
+	path = .themes/feeling-responsive
+	url = https://github.com/Phlow/feeling-responsive
+[submodule ".themes/freelancer"]
+	path = .themes/freelancer
+	url = https://github.com/jeromelachaud/freelancer-theme
+[submodule ".themes/victory"]
+	path = .themes/victory
+	url = https://github.com/mrmatthewtaylor/Victory-Jekyll-Theme
